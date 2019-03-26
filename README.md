@@ -1,3 +1,19 @@
+<!-- CH Repo Tracking Data version 1.0.2 -->
+|     Category     |         Value         |
+| ---------------: | --------------------- |
+| **Repo Status**  | deprecated |
+| **Language**     | None          |
+| **Repo Owner**   |   |
+<!-- If you use any of the following fields, please delete "Repo Owner", above,
+     as it then becomes ambiguous.  If you add fields, please update the script
+     at walker-github-ranger. -->
+<!--
+| **Repo PoC**     | <One or more humans>  |
+| **Repo Oncall**  | <Link to PagerDuty>   |
+| **Repo Team Owner** | <Name of owning team> |
+-->
+
+
 <p align="center"><img src="http://nsq.io/static/img/nsq.png"/></p>
 
  * **Source**: [https://github.com/bitly/nsq][github]
